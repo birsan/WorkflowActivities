@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$title$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://activities.uipath.com/docs/about-the-intelligent-ocr-activities-pack</projectUrl>
+    <iconUrl>http://www.uipath.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.uipath.com/hubfs/legalspot/UiPath_EULA.pdf</licenseUrl>
+    <description>$description$</description>
+  </metadata>
+  <files>
+  </files>
+</package>
