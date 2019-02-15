@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UiPath.FlowProfiler", "UiPath.FlowProfiler", "{ABCF94E3-2815-4DB0-9629-7A08CFC7A009}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FlowProfiler", "FlowProfiler", "{ABCF94E3-2815-4DB0-9629-7A08CFC7A009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPath.FlowProfiler.Activities", "UiPath.FlowProfiler\UiPath.FlowProfiler.Activities\UiPath.FlowProfiler.Activities.csproj", "{6A79F365-8199-4D97-BF18-DB37E7A96D40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowProfiler.Activities", "UiPath.FlowProfiler\UiPath.FlowProfiler.Activities\FlowProfiler.Activities.csproj", "{6A79F365-8199-4D97-BF18-DB37E7A96D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPath.FlowProfiler.Activities.Design", "UiPath.FlowProfiler\UiPath.FlowProfiler.Activities.Design\UiPath.FlowProfiler.Activities.Design.csproj", "{2E738CC7-032A-43D7-8AC8-94ED3D295698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowProfiler.Activities.Design", "UiPath.FlowProfiler\UiPath.FlowProfiler.Activities.Design\FlowProfiler.Activities.Design.csproj", "{2E738CC7-032A-43D7-8AC8-94ED3D295698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

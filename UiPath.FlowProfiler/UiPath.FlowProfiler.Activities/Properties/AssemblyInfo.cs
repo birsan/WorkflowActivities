@@ -12,14 +12,10 @@ using System.Windows.Markup;
 [assembly: AssemblyCopyright("Copyright © UiPath")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: XmlnsPrefix("http://schemas.uipath.com/workflow/activities", "ui")]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: AssemblyTitle("UiPath.FlowProfiler.Activities")]
+[assembly: AssemblyTitle("FlowProfiler")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: XmlnsDefinition("http://schemas.uipath.com/workflow/activities", "UiPath.Core.Activities")]
-[assembly: XmlnsDefinition("http://schemas.uipath.com/workflow/activities", "UiPath.Core")]
-[assembly: XmlnsPrefix("http://schemas.uipath.com/workflow/activities", "ui")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -40,7 +36,7 @@ using System.Windows.Markup;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 #if DEBUG
-[assembly: AssemblyVersion("1.4.*")]
+[assembly: AssemblyVersion("1.0.*")]
 #else
-[assembly: AssemblyVersion("1.4.0")]
+[assembly: AssemblyVersion("1.0.0")]
 #endif

@@ -11,13 +11,10 @@ using System.Windows.Markup;
 [assembly: AssemblyCopyright("Copyright © UiPath")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: XmlnsPrefix("http://schemas.uipath.com/workflow/activities", "ui")]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: AssemblyTitle("UiPath.FlowProfiler.Activities")]
+[assembly: AssemblyTitle("FlowProfiler")]
 [assembly: AssemblyDescription("FlowProfiler Activities Pack")]
 [assembly: AssemblyConfiguration("")]
-[assembly: XmlnsDefinition("http://schemas.uipath.com/workflow/activities/intelligentocr", "UiPath.IntelligentOCR.Activities.Design")]
-[assembly: XmlnsDefinition("http://schemas.uipath.com/workflow/activities/intelligentocr/fc", "UiPath.IntelligentOCR.Activities.Design.FC")]
 
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -39,7 +36,7 @@ using System.Windows.Markup;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 #if DEBUG
-[assembly: AssemblyVersion("1.4.*")]
+[assembly: AssemblyVersion("1.0.*")]
 #else
-[assembly: AssemblyVersion("1.4.0")]
+[assembly: AssemblyVersion("1.0.0")]
 #endif
